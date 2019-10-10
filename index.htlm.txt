@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head>
+<h1>Leroy Springer</h1>
+<body>
+ img src= "https://pixabay.com/photos/butterfly-insect-macro-animal-1127666/" alt="flowers">
+ 
+ 
+ 
+  <p> Hi my name is Leroy Springer.</p>
+</body>
+
+
+
+
+
+
+</html>
+<!DOCTYPE html>
+<html lang="en-us">
+
